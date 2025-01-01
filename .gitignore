@@ -1,0 +1,10 @@
+
+ArcGIS_Files/
+env/
+data/
+
+.ipynb_checkpoints
+.virtual_documents
+
+
+notes.txt
