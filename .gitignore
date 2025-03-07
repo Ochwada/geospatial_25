@@ -5,6 +5,8 @@ data/
 
 .ipynb_checkpoints
 .virtual_documents
+.tiff
+.tif
 
 
 notes.txt
